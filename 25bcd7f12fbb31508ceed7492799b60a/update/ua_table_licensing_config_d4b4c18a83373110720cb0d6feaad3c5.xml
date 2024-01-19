@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-18 21:17:02</sys_created_on>
-        <sys_id>59e3637d2fbb31508ceed7492799b6c0</sys_id>
+        <sys_id>d4b4c18a83373110720cb0d6feaad3c5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_889484_corpora_0_e_wallet_request_by_managers</sys_name>
         <sys_package display_value="Corporate Gifting" source="x_889484_corpora_0">25bcd7f12fbb31508ceed7492799b60a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Corporate Gifting">25bcd7f12fbb31508ceed7492799b60a</sys_scope>
-        <sys_update_name>ua_table_licensing_config_59e3637d2fbb31508ceed7492799b6c0</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_d4b4c18a83373110720cb0d6feaad3c5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-01-18 21:17:02</sys_updated_on>
     </ua_table_licensing_config>
