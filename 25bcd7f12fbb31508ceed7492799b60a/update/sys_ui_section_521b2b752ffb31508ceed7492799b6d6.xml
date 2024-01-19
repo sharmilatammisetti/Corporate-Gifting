@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Corporate Appreciations (Form Section)" section_id="521b2b752ffb31508ceed7492799b6d6" sys_domain="global" table="x_889484_corpora_0_employee" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e_wallet_balance</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:08:19</sys_created_on>
+            <sys_id>05d898ca2fbf31508ceed7492799b6ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations (Form Section)" display_value="Corporate Appreciations (Form Section)" name="x_889484_corpora_0_employee" sys_domain="global" view="Default view">521b2b752ffb31508ceed7492799b6d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:08:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e_wallet_balance_validity</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:08:19</sys_created_on>
+            <sys_id>85d898ca2fbf31508ceed7492799b6ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations (Form Section)" display_value="Corporate Appreciations (Form Section)" name="x_889484_corpora_0_employee" sys_domain="global" view="Default view">521b2b752ffb31508ceed7492799b6d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:08:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>awards_appreciations</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:08:19</sys_created_on>
+            <sys_id>09d898ca2fbf31508ceed7492799b6ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations (Form Section)" display_value="Corporate Appreciations (Form Section)" name="x_889484_corpora_0_employee" sys_domain="global" view="Default view">521b2b752ffb31508ceed7492799b6d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:08:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:08:19</sys_created_on>
+            <sys_id>89d898ca2fbf31508ceed7492799b6ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations (Form Section)" display_value="Corporate Appreciations (Form Section)" name="x_889484_corpora_0_employee" sys_domain="global" view="Default view">521b2b752ffb31508ceed7492799b6d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:08:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e_wallet_budget</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:08:19</sys_created_on>
+            <sys_id>0dd898ca2fbf31508ceed7492799b6ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations (Form Section)" display_value="Corporate Appreciations (Form Section)" name="x_889484_corpora_0_employee" sys_domain="global" view="Default view">521b2b752ffb31508ceed7492799b6d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:08:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Corporate Appreciations (Form Section)</caption>
+            <header>false</header>
+            <name>x_889484_corpora_0_employee</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-18 21:48:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>521b2b752ffb31508ceed7492799b6d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_889484_corpora_0_employee</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Corporate Gifting" source="x_889484_corpora_0">25bcd7f12fbb31508ceed7492799b60a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corporate Gifting">25bcd7f12fbb31508ceed7492799b60a</sys_scope>
+            <sys_update_name>sys_ui_section_521b2b752ffb31508ceed7492799b6d6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-18 21:48:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

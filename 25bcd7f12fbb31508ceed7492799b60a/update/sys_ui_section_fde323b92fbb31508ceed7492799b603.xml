@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="E-Wallet Request by Managers" section_id="fde323b92fbb31508ceed7492799b603" sys_domain="global" table="x_889484_corpora_0_e_wallet_request_by_managers" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:02:15</sys_created_on>
+            <sys_id>1c771c4a2fbf31508ceed7492799b694</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="E-Wallet Request by Managers" display_value="E-Wallet Request by Managers" name="x_889484_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">fde323b92fbb31508ceed7492799b603</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:02:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e_wallet_req_number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:02:15</sys_created_on>
+            <sys_id>9c771c4a2fbf31508ceed7492799b694</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="E-Wallet Request by Managers" display_value="E-Wallet Request by Managers" name="x_889484_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">fde323b92fbb31508ceed7492799b603</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:02:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_by_manager</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:02:15</sys_created_on>
+            <sys_id>10771c4a2fbf31508ceed7492799b695</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="E-Wallet Request by Managers" display_value="E-Wallet Request by Managers" name="x_889484_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">fde323b92fbb31508ceed7492799b603</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:02:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_for_employee</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:02:15</sys_created_on>
+            <sys_id>90771c4a2fbf31508ceed7492799b695</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="E-Wallet Request by Managers" display_value="E-Wallet Request by Managers" name="x_889484_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">fde323b92fbb31508ceed7492799b603</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:02:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_status</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:02:15</sys_created_on>
+            <sys_id>14771c4a2fbf31508ceed7492799b695</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="E-Wallet Request by Managers" display_value="E-Wallet Request by Managers" name="x_889484_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">fde323b92fbb31508ceed7492799b603</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:02:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:02:15</sys_created_on>
+            <sys_id>dc77108a2fbf31508ceed7492799b66b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="E-Wallet Request by Managers" display_value="E-Wallet Request by Managers" name="x_889484_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">fde323b92fbb31508ceed7492799b603</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:02:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:02:15</sys_created_on>
+            <sys_id>5077108a2fbf31508ceed7492799b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="E-Wallet Request by Managers" display_value="E-Wallet Request by Managers" name="x_889484_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">fde323b92fbb31508ceed7492799b603</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:02:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>watch_list</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:02:15</sys_created_on>
+            <sys_id>d077108a2fbf31508ceed7492799b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="E-Wallet Request by Managers" display_value="E-Wallet Request by Managers" name="x_889484_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">fde323b92fbb31508ceed7492799b603</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:02:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:02:15</sys_created_on>
+            <sys_id>5477108a2fbf31508ceed7492799b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="E-Wallet Request by Managers" display_value="E-Wallet Request by Managers" name="x_889484_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">fde323b92fbb31508ceed7492799b603</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:02:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:02:15</sys_created_on>
+            <sys_id>d477108a2fbf31508ceed7492799b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="E-Wallet Request by Managers" display_value="E-Wallet Request by Managers" name="x_889484_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">fde323b92fbb31508ceed7492799b603</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:02:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:02:15</sys_created_on>
+            <sys_id>5877108a2fbf31508ceed7492799b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="E-Wallet Request by Managers" display_value="E-Wallet Request by Managers" name="x_889484_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">fde323b92fbb31508ceed7492799b603</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:02:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:02:15</sys_created_on>
+            <sys_id>d877108a2fbf31508ceed7492799b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="E-Wallet Request by Managers" display_value="E-Wallet Request by Managers" name="x_889484_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">fde323b92fbb31508ceed7492799b603</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:02:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:02:15</sys_created_on>
+            <sys_id>5c77108a2fbf31508ceed7492799b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="E-Wallet Request by Managers" display_value="E-Wallet Request by Managers" name="x_889484_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">fde323b92fbb31508ceed7492799b603</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:02:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:02:15</sys_created_on>
+            <sys_id>dc77108a2fbf31508ceed7492799b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="E-Wallet Request by Managers" display_value="E-Wallet Request by Managers" name="x_889484_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">fde323b92fbb31508ceed7492799b603</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:02:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-19 01:02:15</sys_created_on>
+            <sys_id>5077108a2fbf31508ceed7492799b66d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="E-Wallet Request by Managers" display_value="E-Wallet Request by Managers" name="x_889484_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">fde323b92fbb31508ceed7492799b603</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-19 01:02:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>E-Wallet Request by Managers</caption>
+            <header>false</header>
+            <name>x_889484_corpora_0_e_wallet_request_by_managers</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-18 21:17:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fde323b92fbb31508ceed7492799b603</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_889484_corpora_0_e_wallet_request_by_managers</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Corporate Gifting" source="x_889484_corpora_0">25bcd7f12fbb31508ceed7492799b60a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corporate Gifting">25bcd7f12fbb31508ceed7492799b60a</sys_scope>
+            <sys_update_name>sys_ui_section_fde323b92fbb31508ceed7492799b603</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-18 22:17:09</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
