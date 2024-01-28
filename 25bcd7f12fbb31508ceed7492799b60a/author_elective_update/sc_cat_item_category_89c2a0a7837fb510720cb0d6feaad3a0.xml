@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Test Catalog">65a220a7837fb510720cb0d6feaad362</sc_cat_item>
+        <sc_category display_value="Hardware">d258b953c611227a0146101fb1be7c31</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-23 17:42:37</sys_created_on>
+        <sys_id>89c2a0a7837fb510720cb0d6feaad3a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardware.Test Catalog</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_889484_corpora_0">25bcd7f12fbb31508ceed7492799b60a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">25bcd7f12fbb31508ceed7492799b60a</sys_scope>
+        <sys_update_name>sc_cat_item_category_89c2a0a7837fb510720cb0d6feaad3a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-23 17:42:37</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">25bcd7f12fbb31508ceed7492799b60a</application>
+        <file_path/>
+        <instance_id>5d94a8931b06b5d0168f4089bd4bcb76</instance_id>
+        <instance_name>dev196105</instance_name>
+        <name>sc_cat_item_category_89c2a0a7837fb510720cb0d6feaad3a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Test Catalog">65a220a7837fb510720cb0d6feaad362</sc_cat_item><sc_category display_value="Hardware">d258b953c611227a0146101fb1be7c31</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-23 17:42:37</sys_created_on><sys_id>89c2a0a7837fb510720cb0d6feaad3a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Hardware.Test Catalog</sys_name><sys_package display_value="Corporate Gifting" source="x_889484_corpora_0">25bcd7f12fbb31508ceed7492799b60a</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">25bcd7f12fbb31508ceed7492799b60a</sys_scope><sys_update_name>sc_cat_item_category_89c2a0a7837fb510720cb0d6feaad3a0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-23 17:42:37</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1380710998</payload_hash>
+        <record_name>Hardware.Test Catalog</record_name>
+        <reverted_from/>
+        <source>8cc4cd8683373110720cb0d6feaad3f7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-23 17:42:37</sys_created_on>
+        <sys_id>81c2a0a7837fb510720cb0d6feaad3a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d376ab8cd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-23 17:42:37</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>c5c2a0a77d7fb5104e664954bd266ba3</update_guid>
+        <update_guid_history>c5c2a0a77d7fb5104e664954bd266ba3:-1380710998</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Hardware.Test Catalog">3c6cb71083c4ca10720cb0d6feaad365</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-26 17:28:51</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>826029096a934584bc8c10f7e1295184</sys_id>
+        <sys_metadata>89c2a0a7837fb510720cb0d6feaad3a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardware.Test Catalog</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_889484_corpora_0">25bcd7f12fbb31508ceed7492799b60a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">25bcd7f12fbb31508ceed7492799b60a</sys_scope>
+        <sys_scope_delete display_value="">2a1e4feb898641018e8b4f0e4e904579</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_89c2a0a7837fb510720cb0d6feaad3a0</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_89c2a0a7837fb510720cb0d6feaad3a0">81c2a0a7837fb510720cb0d6feaad3a4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-26 17:28:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
