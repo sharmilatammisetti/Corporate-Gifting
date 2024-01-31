@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_889484_corpora_0_employee" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Employee - Default view" name="x_889484_corpora_0_employee" related_list="NULL" sys_domain="global" view="Default view">5a68f7c58300ce10720cb0d6feaad3b0</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>ua_user_role_ct.user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-29 01:06:56</sys_created_on>
+            <sys_id>aa68f7c58300ce10720cb0d6feaad3b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-29 01:06:56</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Employee - Default view" name="x_889484_corpora_0_employee" related_list="NULL" sys_domain="global" view="Default view">5a68f7c58300ce10720cb0d6feaad3b0</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>REL:8211f38d83cc8e10720cb0d6feaad345</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-29 01:06:56</sys_created_on>
+            <sys_id>a268f7c58300ce10720cb0d6feaad3b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-29 01:06:56</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Employee - Default view" name="x_889484_corpora_0_employee" related_list="NULL" sys_domain="global" view="Default view">5a68f7c58300ce10720cb0d6feaad3b0</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>sys_user_has_role.user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-29 01:06:56</sys_created_on>
+            <sys_id>a668f7c58300ce10720cb0d6feaad3b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-29 01:06:56</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Employee - Default view" name="x_889484_corpora_0_employee" related_list="NULL" sys_domain="global" view="Default view">5a68f7c58300ce10720cb0d6feaad3b0</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>sys_user_grmember.user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-29 01:06:56</sys_created_on>
+            <sys_id>a2687fc58300ce10720cb0d6feaad387</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-29 01:06:56</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Employee - Default view" name="x_889484_corpora_0_employee" related_list="NULL" sys_domain="global" view="Default view">5a68f7c58300ce10720cb0d6feaad3b0</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>sys_user_delegate.user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-29 01:06:56</sys_created_on>
+            <sys_id>a6687fc58300ce10720cb0d6feaad387</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-29 01:06:56</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Employee - Default view" name="x_889484_corpora_0_employee" related_list="NULL" sys_domain="global" view="Default view">5a68f7c58300ce10720cb0d6feaad3b0</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>sys_user_has_license.user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-29 01:06:56</sys_created_on>
+            <sys_id>aa687fc58300ce10720cb0d6feaad387</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-29 01:06:56</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Employee - Default view" name="x_889484_corpora_0_employee" related_list="NULL" sys_domain="global" view="Default view">5a68f7c58300ce10720cb0d6feaad3b0</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>REL:7b66ff058300ce10720cb0d6feaad3ff</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-29 01:06:56</sys_created_on>
+            <sys_id>ae687fc58300ce10720cb0d6feaad387</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-29 01:06:56</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Employee - Default view</calculated_name>
+            <filter/>
+            <name>x_889484_corpora_0_employee</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-29 01:06:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a68f7c58300ce10720cb0d6feaad3b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Employee - Default view</sys_name>
+            <sys_package display_value="Corporate Gifting" source="x_889484_corpora_0">25bcd7f12fbb31508ceed7492799b60a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corporate Gifting">25bcd7f12fbb31508ceed7492799b60a</sys_scope>
+            <sys_update_name>sys_ui_related_x_889484_corpora_0_employee_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-29 01:06:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

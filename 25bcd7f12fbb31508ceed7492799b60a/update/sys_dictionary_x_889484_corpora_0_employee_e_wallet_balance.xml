@@ -38,7 +38,7 @@
         <name>x_889484_corpora_0_employee</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>true</read_only>
+        <read_only>false</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -58,7 +58,7 @@
         <sys_scope display_value="Corporate Gifting">25bcd7f12fbb31508ceed7492799b60a</sys_scope>
         <sys_update_name>sys_dictionary_x_889484_corpora_0_employee_e_wallet_balance</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-18 21:02:08</sys_updated_on>
+        <sys_updated_on>2024-01-29 00:25:32</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
